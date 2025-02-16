@@ -50,9 +50,3 @@ The model achieves an accuracy of approximately 97% on the test set.
 ### Visualization
 
 The notebook includes code to visualize example predictions and their corresponding ground truth labels.
-
-![Example Visualization](example_visualization.png)
-
-## License
-
-This project is licensed under the MIT License.
